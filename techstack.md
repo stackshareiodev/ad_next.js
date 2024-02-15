@@ -90,7 +90,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [stackshareiodev/ad_next.js](https://github.com/stackshareiodev/ad_next.js)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|87<br/>Tools used|02/09/24 <br/>Report generated|
+|87<br/>Tools used|02/15/24 <br/>Report generated|
 |------|------|
 </div>
 
