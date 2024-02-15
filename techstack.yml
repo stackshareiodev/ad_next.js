@@ -1,8 +1,8 @@
 repo_name: stackshareiodev/ad_next.js
-report_id: 3d83313c158c5a43e6f2b73c61a47e97
+report_id: 5d787f14fdd746c0885f6b53a0914c2b
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-09T13:35:41+00:00'
+timestamp: '2024-02-15T11:14:53+00:00'
 requested_by: sokra
 provider: github
 branch: canary
@@ -101,7 +101,7 @@ tools:
   last_updated_by: liwenzhi
   last_updated_on: 2020-05-07 22:13:59.000000000 Z
 - name: DraftJS
-  description: 'A framework for building rich text editors '
+  description: A framework for building rich text editors
   website_url: https://draftjs.org
   version: 0.11.5
   license: MIT
@@ -143,7 +143,7 @@ tools:
   last_updated_by: Florian Didron
   last_updated_on: 2017-01-06 11:38:51.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 12.0.7
   open_source: true
@@ -397,7 +397,7 @@ tools:
   last_updated_by: JJ Kasper
   last_updated_on: 2020-05-21 12:07:27.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.8.4
   license: MIT
